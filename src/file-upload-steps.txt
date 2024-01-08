@@ -1,0 +1,4 @@
+install multer.
+changes in view.
+middleware to handle files.
+apply taht middlewareupdate controller to  update urls of images.
